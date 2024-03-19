@@ -5,7 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
         mullish: ["Mulish", "sans-serif"],
-        acme:["Acme", "sans-serif"]
+        acme:["Acme", "sans-serif"],
+        contrailOne:[ "Contrail One", "sans-serif"],
+        poppins:["Poppins", "sans-serif"]
       },
       colors: {
         blue2:"#181c2e",
@@ -19,7 +21,8 @@ module.exports = {
         grayBlue: "#344a6c",
         deepBlueHead: "#162f56",
         gray2: "#525a76",
-        bgColor:"#181818"
+        bgColor:"#181818",
+        yellowMain:"#F7B41A"
       },
       backgroundImage: {
         'sec2': "url('./assets/images/payment-suite.png')",
