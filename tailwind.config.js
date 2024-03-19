@@ -19,6 +19,7 @@ module.exports = {
         grayBlue: "#344a6c",
         deepBlueHead: "#162f56",
         gray2: "#525a76",
+        bgColor:"#181818"
       },
       backgroundImage: {
         'sec2': "url('./assets/images/payment-suite.png')",
