@@ -22,7 +22,8 @@ module.exports = {
         deepBlueHead: "#162f56",
         gray2: "#525a76",
         bgColor:"#181818",
-        yellowMain:"#F7B41A"
+        yellowMain:"#F7B41A",
+        footerMain:"#2C2B2B"
       },
       backgroundImage: {
         'sec2': "url('./assets/images/payment-suite.png')",
